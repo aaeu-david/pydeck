@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "value": 500
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -274,7 +276,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "value": 1000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

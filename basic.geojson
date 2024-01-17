@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "signal" :50
+      },
       "geometry": {
         "coordinates": [
           7.739851562501201,
@@ -14,7 +16,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "signal" :200
+      },
       "geometry": {
         "coordinates": [
           8.146345703126087,

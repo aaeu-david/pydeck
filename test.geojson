@@ -1,0 +1,985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96313082,
+          48.0944896
+        ]
+      },
+      "properties": {
+        "time": "2024-01-07T12:53:43+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96315367,
+          48.0945684
+        ]
+      },
+      "properties": {
+        "time": "2024-01-06T16:01:58+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08490973,
+          47.84248048
+        ]
+      },
+      "properties": {
+        "time": "2024-01-06T15:06:01+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 28087821 / Radius =29.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13473556,
+          47.86025251
+        ]
+      },
+      "properties": {
+        "time": "2024-01-06T14:24:19+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 47131139 / Radius =15.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96311732,
+          48.09459659
+        ]
+      },
+      "properties": {
+        "time": "2024-01-06T09:30:46+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96308187,
+          48.09443148
+        ]
+      },
+      "properties": {
+        "time": "2024-01-05T18:54:46+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96545094,
+          48.04848927
+        ]
+      },
+      "properties": {
+        "time": "2024-01-05T18:31:28+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 29885707 / Radius =31.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5037832,
+          48.08746908
+        ]
+      },
+      "properties": {
+        "time": "2024-01-05T11:42:48+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =15.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96315241,
+          48.09451483
+        ]
+      },
+      "properties": {
+        "time": "2024-01-05T09:18:01+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95504098,
+          48.07598564
+        ]
+      },
+      "properties": {
+        "time": "2024-01-05T08:22:29+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =104.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96308955,
+          48.0945348
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T20:21:02+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9651606,
+          48.04838899
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T20:01:03+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =31.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96320125,
+          48.09452538
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T19:34:16+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.50385843,
+          48.08722164
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T15:35:08+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 51311718 / Radius =15.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96305791,
+          48.094486
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T13:59:44+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98643527,
+          48.07930469
+        ]
+      },
+      "properties": {
+        "time": "2024-01-04T13:14:23+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =42.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96308807,
+          48.09455366
+        ]
+      },
+      "properties": {
+        "time": "2024-01-03T17:35:48+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9699965,
+          48.0771045
+        ]
+      },
+      "properties": {
+        "time": "2024-01-03T17:01:47+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 41206784 / Radius =24.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96396577,
+          48.09408445
+        ]
+      },
+      "properties": {
+        "time": "2024-01-03T16:32:31+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 20608101 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96895454,
+          48.0454319
+        ]
+      },
+      "properties": {
+        "time": "2024-01-03T15:08:23+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =31.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96331127,
+          48.09436647
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T18:10:12+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88948427,
+          48.30954983
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T17:01:32+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =30.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62667671,
+          48.09970298
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T15:55:07+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =15.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66371085,
+          48.04072406
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T13:58:23+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =19.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.50449736,
+          48.08769543
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T12:33:55+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =15.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53108517,
+          48.18298673
+        ]
+      },
+      "properties": {
+        "time": "2024-01-02T11:57:58+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =15.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "time": 0,
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 0 / Radius =0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96307349,
+          48.09445421
+        ]
+      },
+      "properties": {
+        "time": "2024-01-01T16:13:11+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "time": 0,
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 0 / Radius =0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96319932,
+          48.09448149
+        ]
+      },
+      "properties": {
+        "time": "2023-12-31T16:29:29+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96316977,
+          48.09450789
+        ]
+      },
+      "properties": {
+        "time": "2023-12-30T16:29:19+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 39437313 / Radius =86.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.16069529,
+          48.06588607
+        ]
+      },
+      "properties": {
+        "time": "2023-12-30T15:21:43+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 42264578 / Radius =69.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "time": 0,
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 0 / Radius =0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96308807,
+          48.09455366
+        ]
+      },
+      "properties": {
+        "time": "2023-12-29T18:20:07+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96306298,
+          48.09453157
+        ]
+      },
+      "properties": {
+        "time": "2023-12-29T12:21:34+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96307397,
+          48.09456659
+        ]
+      },
+      "properties": {
+        "time": "2023-12-28T18:23:17+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =86.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "time": 0,
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 0 / Radius =0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00585531,
+          49.74204833
+        ]
+      },
+      "properties": {
+        "time": "2023-12-28T13:14:03+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18026598 / Radius =63.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00344374,
+          49.74679854
+        ]
+      },
+      "properties": {
+        "time": "2023-12-28T12:45:38+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18026598 / Radius =120.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95553429,
+          49.6844521
+        ]
+      },
+      "properties": {
+        "time": "2023-12-27T20:04:59+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =120.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5628493,
+          49.52531063
+        ]
+      },
+      "properties": {
+        "time": "2023-12-27T14:48:33+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 51686759 / Radius =15.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78555743,
+          49.65497812
+        ]
+      },
+      "properties": {
+        "time": "2023-12-27T13:28:26+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =45.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95569188,
+          49.68451504
+        ]
+      },
+      "properties": {
+        "time": "2023-12-26T15:57:09+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18058343 / Radius =120.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95569188,
+          49.68451504
+        ]
+      },
+      "properties": {
+        "time": "2023-12-25T15:57:00+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18058343 / Radius =120.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00420731,
+          49.74330585
+        ]
+      },
+      "properties": {
+        "time": "2023-12-25T14:32:32+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18026598 / Radius =59.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95569188,
+          49.68451504
+        ]
+      },
+      "properties": {
+        "time": "2023-12-24T14:36:24+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 18058343 / Radius =120.0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99047602,
+          49.66015567
+        ]
+      },
+      "properties": {
+        "time": "2023-12-24T13:36:22+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =16.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "time": 0,
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: 0 / Radius =0 mts",
+        "point_color": [
+          0,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0020324,
+          49.68252608
+        ]
+      },
+      "properties": {
+        "time": "2023-12-23T15:49:58+0000",
+        "fillOpacity": 0.6,
+        "popup": "Cell ID: N/A / Radius =17.0 mts",
+        "point_color": [
+          255,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

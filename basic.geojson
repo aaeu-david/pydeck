@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "signal" :50
+        "signal" :50,
+        "operator": "test"
       },
       "geometry": {
         "coordinates": [
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "signal" :200
+        "signal" :200,
+        "operator": "test2"
       },
       "geometry": {
         "coordinates": [
